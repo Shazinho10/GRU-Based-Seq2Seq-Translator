@@ -1,0 +1,4 @@
+spacy
+torchtext==0.8.1
+torch
+!python -m spacy download de_core_news_sm
